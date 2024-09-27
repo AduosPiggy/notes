@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb502693-4639-4e64-bc33-5d456ec45de1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/books/books.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/android/Android应用安全防护和逆向分析 (姜维) (Z-Library).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/android/Android软件安全权威指南 (丰生强) (Z-Library).pdf" beforeDir="false" />
-    </list>
+    <list default="true" id="fb502693-4639-4e64-bc33-5d456ec45de1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727420959631</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="finished: change books storage &#10;todo:">
+      <created>1727421455664</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727421455664</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +128,7 @@
     <MESSAGE value="Jvm内存模型" />
     <MESSAGE value="finished: init Jvm_GC.md&#10;todo:" />
     <MESSAGE value="finished: init books&#10;todo:" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished: init books&#10;todo:" />
+    <MESSAGE value="finished: change books storage &#10;todo:" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished: change books storage &#10;todo:" />
   </component>
 </project>
